@@ -1,1 +1,0 @@
-Advanced Terraform Course
